@@ -1,4 +1,0 @@
-v 4
-file . "full_adder.vhdl" "200fdeb77169c2769ef761d68640db2b6503bcff" "20171206103248.450":
-  entity adder at 1( 0) + 0 on 11;
-  architecture rtl of adder at 7( 212) + 0 on 12;
